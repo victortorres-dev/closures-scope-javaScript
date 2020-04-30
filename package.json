@@ -1,0 +1,35 @@
+{
+  "name": "closures-scope-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "globaljs": "node src/scope/global.js",
+    "localjs": "node src/scope/local.js",
+    "functionjs": "node src/scope/function.js",
+    "blockjs": "node src/scope/block.js",
+    "closurejs": "node src/closures/closure.js",
+    "lexicaljs": "node src/closures/lexical.js",
+    "privatejs": "node src/closures/private.js",
+    "hoistingjs": "node src/hoisting/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victortorres-dev/closures-scope-javaScript.git"
+  },
+  "keywords": [
+    "globalScope",
+    "localScope",
+    "closures",
+    "javaScript"
+  ],
+  "author": "victortorres-dev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victortorres-dev/closures-scope-javaScript/issues"
+  },
+  "homepage": "https://github.com/victortorres-dev/closures-scope-javaScript#readme",
+  "devDependencies": {
+    "standard": "^14.3.3"
+  }
+}

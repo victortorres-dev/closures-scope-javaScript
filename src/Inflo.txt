@@ -1,0 +1,7 @@
+/*
+-Scope -> Se define como el alcance que una variable tiene dentrodel códiigo,
+se encarga de definir a que bloques de código va a acceder una variable
+-Dos formas de scope:
+    Scope Local -> 
+    Scope Global ->
+*/
